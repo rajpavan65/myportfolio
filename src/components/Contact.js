@@ -35,7 +35,7 @@ function Contact() {
                         </tr>
                         <tr>
                             <td>Phone:</td>
-                            <td>+91 8319637524</td>
+                            <td>+91 8602511767</td>
                         </tr>
                         <tr>
                             <td>Address:</td>

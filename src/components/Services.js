@@ -16,12 +16,9 @@ function Services() {
                             name={val.name}
                             imgsrc={val.imgsrc}
                         />
-
                     );
                 }
-
                 )}
-
             </div>
 
 

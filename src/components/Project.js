@@ -3,7 +3,7 @@ import React from 'react'
 function Project() {
     return (
 
-        <div className='skillsec'>
+        <div style={{textAlign:'center'}}>
            
                 <h1 style={{ marginBottom: '20px' }}>Projects</h1>
                 <p style={{ marginBottom: '20px' }}>From ideation to creation, here are some applications that I have developed.</p>

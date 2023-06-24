@@ -23,10 +23,6 @@ function Tools() {
                 )}
 
             </div>
-
-
-
-
         </div>
     )
 }

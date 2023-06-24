@@ -8,8 +8,8 @@ const Sdata = [
 
     {
         id: 2,
-        name: "Node.js",
-        imgsrc: "./Images/nodejs.svg"
+        name: "Next.js",
+        imgsrc: "./Images/nextjs.svg"
     },
 
     {
@@ -20,8 +20,8 @@ const Sdata = [
 
     {
         id: 4,
-        name: "Mongodb",
-        imgsrc: "./Images/mongodb.svg"
+        name: "Sass",
+        imgsrc: "./Images/sass.svg"
     },
     {
         id: 5,
