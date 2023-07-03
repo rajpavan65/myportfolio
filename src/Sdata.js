@@ -14,7 +14,7 @@ const Sdata = [
 
     {
         id: 3,
-        name: "HTML5",
+        name: "HTML",
         imgsrc: "./Images/w3_html5-icon.svg"
     },
 
