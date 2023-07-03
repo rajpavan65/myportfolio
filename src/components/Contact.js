@@ -10,18 +10,18 @@ function Contact() {
                     <h1 id='h2-main'>Leave a Message!</h1>
 
                     <div style={{ marginTop: '20px' }}>
-                        <input type='text' name='name' placeholder='Name' ></input>
+                        <input type='text' name='name' placeholder='Name' required></input>
                     </div>
                     <div style={{ marginTop: '20px' }}>
-                        <input type='email' name='email' placeholder='Email'></input>
+                        <input type='email' name='email' placeholder='Email' required></input>
                     </div>
 
                     <div style={{ marginTop: '20px' }}>
-                        <input type='text' name='subject' placeholder='Subject'></input>
+                        <input type='text' name='subject' placeholder='Subject' required></input>
                     </div>
 
                     <div style={{ width: '100%', marginTop: '20px' }}>
-                        <textarea rows='5' placeholder='Your Message'></textarea>
+                        <textarea rows='5' placeholder='Your Message' required></textarea>
                     </div>
                     <button className='btn' type='submit'>Send Message</button>
                 </div>
