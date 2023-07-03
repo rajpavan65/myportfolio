@@ -40,6 +40,16 @@ const Tdata = [
     },
     {
         id: 8,
+        name: "Figma",
+        imgsrc: "./Images/figma-icon.svg"
+    },
+        {
+        id: 9,
+        name: "Adobe Xd",
+        imgsrc: "./Images/adobe-xd.svg"
+    },
+        {
+        id: 10,
         name: "WooCommerce",
         imgsrc: "./Images/woocom.svg"
     }

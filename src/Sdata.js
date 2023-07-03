@@ -42,6 +42,16 @@ const Sdata = [
         id: 8,
         name: "JavaScript",
         imgsrc: "./Images/javascript.svg"
+    },
+    {
+        id: 9,
+        name: "TypeScript",
+        imgsrc: "./Images/typescript.svg"
+    },
+    {
+        id: 10,
+        name: "Ant Design",
+        imgsrc: "./Images/antd.svg"
     }
 
 ]
