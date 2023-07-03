@@ -6,7 +6,7 @@ function Contact() {
             <h1 id='h1-main' style={{ textAlign: 'center', paddingBottom: '15px' }}>Lets Connect</h1>
             <p style={{ textAlign: 'center' }}>Feel free to contact me for business services and other professional inquiries!</p>
             <div className='contactform'>
-                <div className='form'>
+                <form className='form'>
                     <h1 id='h2-main'>Leave a Message!</h1>
 
                     <div style={{ marginTop: '20px' }}>
@@ -24,7 +24,7 @@ function Contact() {
                         <textarea rows='5' placeholder='Your Message' required></textarea>
                     </div>
                     <button className='btn' type='submit'>Send Message</button>
-                </div>
+                </form>
 
                 <div className='info'>
                     <h1 id='h2-main'>Contact Info</h1>
